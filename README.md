@@ -1,0 +1,1 @@
+A simple boilerplate of gradle multi module project
